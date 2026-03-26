@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Phyo 👋
 
-<!--
-**phyominhtet-dev/phyominhtet-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer with 8+ years in Tech Support, transitioning into Cloud & Platform Engineering  
 
-Here are some ideas to get you started:
+## 🧠 Skills & Focus
+- ☁️ AWS (EKS, EC2, VPC)
+- ⚙️ Kubernetes & Docker
+- 🔁 CI/CD (GitHub Actions)
+- 📊 Observability (Datadog, Splunk)
+- 🏗️ Infrastructure as Code (Terraform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Project
+- 🚧 Building a Production-Ready EKS GitOps Platform  
+  - ArgoCD (GitOps)
+  - Prometheus + Grafana (Monitoring)
+  - Trivy (Security scanning)
+  - Slack Alerts (ChatOps)
+
+## 🎯 Goal
+Transition into a DevOps / SRE role in Europe (Germany / Netherlands)
+
+## 📫 Contact
+- LinkedIn: - www.linkedin.com/in/phyo-min-htet-0a3471158
