@@ -17,7 +17,7 @@
   - Slack Alerts (ChatOps)
 
 ## 🎯 Goal
-Transition into a DevOps / SRE role in Europe (Germany / Netherlands)
+Transition into a DevOps / SRE role
 
 ## 📫 Contact
 - LinkedIn: - www.linkedin.com/in/phyo-min-htet-0a3471158
