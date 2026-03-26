@@ -1,6 +1,6 @@
 # Hi, I'm Phyo 👋
 
-🚀 Regional TechOps Engineer with 7+ years experience with Grab, focused on Cloud, DevOps & Platform Engineering
+🚀 Regional TechOps Engineer with 7+ years experience at Grab, focused on Cloud, DevOps & Platform Engineering
 
 ## 🧠 Skills & Focus
 - ☁️ AWS (EKS, EC2, VPC)
